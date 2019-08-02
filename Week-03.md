@@ -469,7 +469,7 @@ https://www.visualstudio.com/
 
 ให้นักศึกษาทดลองคลิกที่ตัวเลือกต่างๆ 
 
-++__ถ้าต้องการกลับไปก่อนการ merge ให้กด Undo merge__++</td>
+__++ถ้าต้องการกลับไปก่อนการ merge ให้กด Undo merge++__</td>
 <td valign="top"><img src = "./images/Fig-3.45.png"> </p> </td>
 </tr>
 </table>
