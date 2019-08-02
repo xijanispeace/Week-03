@@ -401,16 +401,11 @@ https://www.visualstudio.com/
 
     </ul>
 
-
-
 29. เปลี่ยน Branch กลับไปยัง Computer โดยการ double click ที่ Computer
     <ul>
         <li>สังเกตุการเปลี่ยนแปลงที่เกิดขึ้นกับไฟล์ Program.cs
         <li>ทดลองสลับไปมาระหว่าง branch ที่ชื่อ master และ Computer (โดยการ double click)
     </ul>
-
-
-
 
 ### แบบฝึกหัด
 ให้ทำการเพิ่ม commit ตามภาคการศึกษาต่างๆ โดยเขียน Hilight ที่นักศึกษาคิดว่าที่จะพบในแต่ละภาคการศึกษา จนถึงชั้นปีที่ 4 ภาคเรียนที่ 2
@@ -469,7 +464,7 @@ https://www.visualstudio.com/
 
 ให้นักศึกษาทดลองคลิกที่ตัวเลือกต่างๆ 
 
-__++ถ้าต้องการกลับไปก่อนการ merge ให้กด Undo merge++__</td>
+__ถ้าต้องการกลับไปก่อนการ merge ให้กด Undo merge__</td>
 <td valign="top"><img src = "./images/Fig-3.45.png"> </p> </td>
 </tr>
 </table>
