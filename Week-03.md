@@ -188,7 +188,7 @@ https://www.visualstudio.com/
   
 <table>
 <tr> 
-<td valign="top">6. เมื่อ แก้ไขเสร็จ ให้คลิกที่ Changes เพื่อดูการเปลี่ยนแปลง เทียบได้กับการสั่ง git status
+<td valign="top" width = "50%">6. เมื่อ แก้ไขเสร็จ ให้คลิกที่ Changes เพื่อดูการเปลี่ยนแปลง เทียบได้กับการสั่ง git status
 </td>
 <td valign="top"><img src = "./images/Fig-3.25.png"> </p> </td>
 </tr>
@@ -198,7 +198,7 @@ https://www.visualstudio.com/
 <tr> 
 <td valign="top">7. Team Explorer จะรายงานไฟล์ที่มีการเปลี่ยนแปลง พร้อมทั้งมีช่่องให้ใส่ข้อความสำหรับการ  commit  เมื่อกรอกข้อความเสร็จให้คลิกปุ่ม Commit All
 </td>
-<td valign="top"><img src = "./images/Fig-3.26.png" width = "50%"> </p> </td>
+<td valign="top" width = "50%"><img src = "./images/Fig-3.26.png" > </p> </td>
 </tr>
 </table>
 
@@ -210,7 +210,7 @@ https://www.visualstudio.com/
 <table>
 <tr> 
 <td valign="top">8. ให้ทำการ sync repo ที่เราสร้างขึ้นไปบน Github</td>
-<td valign="top"><img src = "./images/Fig-3.27.png"> </p> </td>
+<td valign="top" width = "50%"><img src = "./images/Fig-3.27.png"> </p> </td>
 </tr>
 </table>
 
