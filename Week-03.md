@@ -151,7 +151,7 @@ https://www.visualstudio.com/
 
 <table>
 <tr> 
-<td valign="top">ระบุรายละเอียดของ repo ใหม่ที่จะสร้าง
+<td valign="top"  width = "50%">ระบุรายละเอียดของ repo ใหม่ที่จะสร้าง
 <ul>
   <li> ในช่อง Name ให้เพิ่มชื่อ repository  <b>CL60-03</b>
   <li> ในช่อง Description ให้ใส่รายละเอียดสั้นๆ  <b>Computer Laboratory 1 : Lab 03</b>
