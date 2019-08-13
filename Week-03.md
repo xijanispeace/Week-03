@@ -144,8 +144,8 @@ https://www.visualstudio.com/
 
 <table>
 <tr> 
-<td valign="top" width = "50%">สร้าง repository โดยการคลิกปุ่ม <b>Create</b></td>
-<td valign="top"><img src = "./images/Fig-3.20.png"> </p> </td>
+<td valign="top"  width = "50%">ในแท็บ Team Explorer ให้สร้าง repository โดยการคลิกปุ่ม <b>Create</b></td>
+<td valign="top "><img src = "./images/Fig-3.20.png"> </p> </td>
 </tr>
 </table>  
 
@@ -228,7 +228,7 @@ https://www.visualstudio.com/
       <li> [X] Initialize this repository with a README
       <li> [ Add .gitignore : VisualStudio] 
     </ul>
-<img src = "./images/Fig-3.28.png">
+<img src = "./images/Fig-3.28.png" valign = "center">
 
 <table>
 <tr> 
