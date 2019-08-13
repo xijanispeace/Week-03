@@ -198,7 +198,7 @@ https://www.visualstudio.com/
 <tr> 
 <td valign="top">7. Team Explorer จะรายงานไฟล์ที่มีการเปลี่ยนแปลง พร้อมทั้งมีช่่องให้ใส่ข้อความสำหรับการ  commit  เมื่อกรอกข้อความเสร็จให้คลิกปุ่ม Commit All
 </td>
-<td valign="top"><img src = "./images/Fig-3.26.png"> </p> </td>
+<td valign="top"><img src = "./images/Fig-3.26.png" width = 300> </p> </td>
 </tr>
 </table>
 
