@@ -228,7 +228,7 @@ https://www.visualstudio.com/
       <li> [X] Initialize this repository with a README
       <li> [ Add .gitignore : VisualStudio] 
     </ul>
-<img src = "./images/Fig-3.28.png" valign = "center">
+<img src = "./images/Fig-3.28.png" align = "center">
 
 <table>
 <tr> 
